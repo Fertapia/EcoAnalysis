@@ -1,5 +1,5 @@
 
-########## Tramsformaciones y medidas de similariadad ###########
+########## Tramsformaciones y Estandarizaciones ###########
 
 # Fuente: https://chrischizinski.github.io/SNR_R_Group/2016-08-10-Data-Transformations 
 
